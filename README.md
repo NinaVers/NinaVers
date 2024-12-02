@@ -6,6 +6,7 @@
 
 ---
 ##Habilidades:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="canva" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png">
   <img align="center" alt="excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
@@ -21,7 +22,9 @@
   <img align="center" alt="sckitlearn" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
 </div>
 ---
+
 ## Idiomas:
+
 | Idioma  | Nível |
 | :---         |:---         |
 | <img align="center" alt="Francês" height="40" width="50" src="https://imagepng.org/wp-content/uploads/2017/10/bandeira-fran%C3%A7a.png">  | Fluente  |
@@ -29,9 +32,13 @@
 |<img align="center" alt="Inglês" height="40" width="50" src="https://www.ifpb.edu.br/itaporanga/noticias/2019/08/inscricoes-abertas-para-curso-de-ingles-intermediario/curso-de-ingles.png">  | Intermediário |
 |<img align="center" alt="Espanhol" height="40" width="50" src="https://www.estudopratico.com.br/wp-content/uploads/2017/02/bandeira-espanha-p.jpg">  | Básico |
 ---
+
+
 ## 📊📈 GitHub Stats
 ![NinaVers's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinaVers&show_icons=true&theme=dracula)
 ---
+
+
 ## 📧 Contato
 [![researchgate](https://img.shields.io/badge/researchgate-000?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Nina-Verslype)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/nina-iris-v)
