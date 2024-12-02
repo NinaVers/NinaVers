@@ -1,7 +1,9 @@
 # Nina
 👋 Olá, seja bem vindo ao meu perfil!
 ## Sobre mim:
-Atualmente sou doutoranda em **Agronomia** na área de **Melhoramento Genético de Plantas** (**UFRPE**). Comecei a programar com Python durante o mestrado, aplicando algoritmos de aprendizado de máquina na área de melhoramento genético de videiras (*Vitis* sp.). 🌱🍇🧬💻  
+
+- Atualmente sou doutoranda em **Agronomia** na área de **Melhoramento Genético de Plantas** (**UFRPE**). Comecei a programar com Python durante o mestrado, aplicando algoritmos de aprendizado de máquina na área de melhoramento genético de videiras (*Vitis* sp.). 🌱🍇🧬💻
+- 
 ---
 ##Habilidades:
 <div style="display: inline_block"><br>
