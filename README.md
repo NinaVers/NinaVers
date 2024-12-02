@@ -5,7 +5,7 @@
 - Atualmente sou doutoranda em **Agronomia** na área de **Melhoramento Genético de Plantas** (**UFRPE**). Comecei a programar com Python durante o mestrado, aplicando algoritmos de aprendizado de máquina na área de melhoramento genético de videiras (*Vitis* sp.). 🌱🍇🧬💻
 
 ---
-##Habilidades:
+## Habilidades:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="canva" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png">
